@@ -1,0 +1,26 @@
+@import "style_null.css";
+
+p {
+   font-size: 14px;
+}
+h1.head {
+   color: red;
+   font-size: 90px;
+}
+
+h2.head__two {
+   color: darkblue;
+   font-size: 60px;
+}
+h3.head__three {
+   color: green;
+   font-size: 45px;
+}
+h4.head__four {
+   color: rgba(63, 4, 4, 0.589);
+   font-size: 30px;
+}
+ol {
+   color: blue;
+   font-size: 18px;
+}

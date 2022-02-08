@@ -1,7 +1,8 @@
 @import "style_null.css";
 
+@import url("https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap");
 p {
-   font-size: 14px;
+   font-size: 18px;
 }
 h1.head {
    color: red;
@@ -22,5 +23,5 @@ h4.head__four {
 }
 ol {
    color: blue;
-   font-size: 18px;
+   font-size: 20px;
 }
